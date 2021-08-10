@@ -10,9 +10,9 @@ function ImageSection() {
                 <img src={resume} alt=""/>
             </div>
             <div className="right-content">
-                <h4>Hola soy <span>Javier Kevin Ojeda</span></h4>
+                <h4>Hola, soy <span>Javier Kevin Ojeda</span></h4>
                 <p className="paragraph">
-                    Nací el 27 de diciembre de 1998 en Argentina. Soy apasionado por la tecnología y el deporte desde que tengo memoria, a lo largo de mi vida laboral me he encontrado con muchos retos, y ser autodidacta me ha ayudado a resolverlos. Trabajar en equipo y buscar el exito grupal, es algo que considero muy importante, aunque nunca descarto algún reto personal. Como desarrollador soy proactivo, organizado y metodico, me adapto facilmente ante cambios y estoy abierto a aprender nuevas tecnologías y lenguajes.
+                    Nací el 27 de diciembre de 1998 en Argentina. Soy apasionado por la tecnología y el deporte desde que tengo memoria. A lo largo de mi vida laboral me he encontrado con muchos retos y ser autodidacta me ha ayudado a resolverlos. Trabajar en equipo y buscar el exito grupal es algo que considero muy importante, aunque nunca descarto algún reto personal. Como desarrollador soy proactivo y organizado, me adapto facilmente ante cambios y estoy abierto a aprender nuevas tecnologías y lenguajes.
                     
                 </p>
                 <div className="about-info">
