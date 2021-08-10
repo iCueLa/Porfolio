@@ -24,9 +24,9 @@ function Resume() {
                         subTitle={'Henry Bootcamp '}
                         text={`Cordinacion y asistencia a estudiantes durante su trayecto en el
                                 bootcamp.
-                                planificación y desarrollo de actividades, evaluación de dudas.
+                                Planificación, desarrollo de actividades y evaluación de dudas.
                                 Programa:
-                                Javascript, React, Node, Express, PostgresQSL, Sequelize, entre
+                                Javascript, React, Node, Express, PostgreQSL, Sequelize, entre
                                 otras.`} 
                     />
                     
