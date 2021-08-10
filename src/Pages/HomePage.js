@@ -12,7 +12,7 @@ function HomePage() {
             </div>
             <div className="typography">
                 <h1><span>Javier Kevin Ojeda</span></h1>
-                <h1><span className="spancito">Full Stack Developer</span></h1>
+                <h1><span className="spancito">Full Stack JavaScript Developer</span></h1>
 
                 <div className="icons">
                     <a href="https://www.linkedin.com/in/ojedaajavier/" className="icon i-facebook">
